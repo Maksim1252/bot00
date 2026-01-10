@@ -1,0 +1,23 @@
+{
+  "1807082571": {
+    "nick": "Malchik04",
+    "money": 1,
+    "business": {
+      "shop": 0,
+      "market": 0,
+      "bakery": 0,
+      "cafe": 0,
+      "bar": 0,
+      "restaurant": 0,
+      "factory": 0
+    },
+    "bank": {
+      "opened": false,
+      "balance": 0
+    },
+    "refs": 0,
+    "referred_by": null,
+    "waiting": "promo",
+    "used_promos": []
+  }
+}
