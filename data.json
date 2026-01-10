@@ -1,0 +1,37 @@
+{
+  "1807082571": {
+    "nick": "Malchik04",
+    "money": 0,
+    "business": {
+      "shop": 0,
+      "market": 0,
+      "bakery": 0,
+      "cafe": 0,
+      "bar": 0,
+      "restaurant": 0,
+      "factory": 0,
+      "logistics": 0,
+      "bankbiz": 0,
+      "it": 0,
+      "media": 0,
+      "pharma": 0,
+      "energy": 0,
+      "oil": 0,
+      "holding": 0,
+      "space": 0,
+      "ai": 0,
+      "quantum": 0,
+      "metaverse": 0,
+      "galactic": 0
+    },
+    "bank": {
+      "opened": false,
+      "balance": 0
+    },
+    "refs": 0,
+    "referred_by": null,
+    "last_work": 0,
+    "waiting": "admin_promo",
+    "used_promos": []
+  }
+}
